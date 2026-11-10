@@ -1,0 +1,30 @@
+{
+ "title": "Estudio ASIR",
+ "asignaturas": [
+  {
+   "id": "ingles",
+   "title": "Inglés",
+   "color": "#1368ce"
+  },
+  {
+   "id": "ciber",
+   "title": "SAD (Ciberseguridad)",
+   "color": "#e21b3c"
+  },
+  {
+   "id": "iaw",
+   "title": "Aplicaciones Web (IAW)",
+   "color": "#6a3fb5"
+  },
+  {
+   "id": "sostenibilidad",
+   "title": "Sostenibilidad",
+   "color": "#26890c"
+  },
+  {
+   "id": "digitalizacion",
+   "title": "Digitalización",
+   "color": "#c79100"
+  }
+ ]
+}
